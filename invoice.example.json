@@ -1,0 +1,21 @@
+{
+  "issuer": {
+    "name": "山田 太郎",
+    "postal_code": "〒100-0001",
+    "address": "東京都千代田区千代田1-1",
+    "registration_number": "",
+    "bank_name": "〇〇銀行",
+    "branch_name": "〇〇支店",
+    "account_type": "普通",
+    "account_number": "1234567",
+    "account_holder": "ヤマダ タロウ"
+  },
+  "client_name": "株式会社サンプル",
+  "client_address": "大阪府大阪市北区1-1-1\nサンプルビル1F",
+  "hourly_rate": 5000,
+  "description": "アプリケーション開発支援",
+  "tax_rate": 0.10,
+  "notes": "お振込手数料は貴社でご負担をお願いいたします。",
+  "extra_items": [],
+  "font_path": ""
+}
